@@ -18,9 +18,7 @@ I’m a Multi-Stack Developer who loves jumping across the entire tech stack. I 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=OneforAll-Deku&label=Profile%20Views&pretty=false" />
-</a>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OneforAll-Deku/OneforAll-Deku/main/output/dark.svg" />

@@ -14,7 +14,7 @@ I’m a Multi-Stack Developer who loves jumping across the entire tech stack. I 
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=OneforAll-Deku&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![](./profile/trophy.svg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

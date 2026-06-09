@@ -1,0 +1,27 @@
+name: generate breakout svg
+on:
+  schedule:
+    - cron: "0 */24 * * *" # Runs every 24 hours
+  workflow_dispatch:        # Allows manual triggering
+
+jobs:
+  generate-svg:
+    permissions:
+      contents: write       # Required to commit files back to the repository
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: generate SVG
+        uses: cyprieng/github-breakout@v1
+        with:
+          github_username: OneforAll-Deku
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update Breakout SVG" && git push)

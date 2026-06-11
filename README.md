@@ -17,7 +17,13 @@ I’m a Multi-Stack Developer who loves jumping across the entire tech stack. I 
 ![](./profile/trophy.svg)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+┌──────────────────────────────────────────────────────────────────────────┐
+│ "Once men turned their thinking over to machines in the hope that this   │
+│  would set them free. But that only permitted other men with machines    │
+│  to enslave them."                                                       │
+│                                                                          │
+│ -- Frank Herbert, Dune                                                   │
+└──────────────────────────────────────────────────────────────────────────┘
 
 
 <picture>

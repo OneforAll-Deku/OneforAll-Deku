@@ -17,14 +17,10 @@ I’m a Multi-Stack Developer who loves jumping across the entire tech stack. I 
 ![](./profile/trophy.svg)
 
 ### ✍️ Random Dev Quote
-┌──────────────────────────────────────────────────────────────────────────┐
-│ "Once men turned their thinking over to machines in the hope that this   │
-│  would set them free. But that only permitted other men with machines    │
-│  to enslave them."                                                       │
-│                                                                          │
-│ -- Frank Herbert, Dune                                                   │
-└──────────────────────────────────────────────────────────────────────────┘
 
+ "Once men turned their thinking over to machines in the hope that this   
+  would set them free. But that only permitted other men with machines   
+  to enslave them."                                                       
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OneforAll-Deku/OneforAll-Deku/main/output/dark.svg" />

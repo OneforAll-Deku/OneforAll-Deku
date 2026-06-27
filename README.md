@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pratyaksh</h1>
 
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=OneforAll-Deku&repo=OneforAll-Deku&countColor=%237B1E7A" />
+</p>
 
 I’m a Multi-Stack Developer who loves jumping across the entire tech stack. I don’t like being boxed into one niche—I’m just as comfortable crafting a smooth UI as I am architecting a cloud backend or fine-tuning a GenAI model
 
